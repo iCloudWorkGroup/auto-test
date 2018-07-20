@@ -1,0 +1,24 @@
+{
+  "name": "testproduct",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nightwatch": "^0.9.21",
+    "selenium-standalone": "^6.15.0",
+    "nightwatch-helpers": "^1.2.0"
+  },
+  "dependencies": {
+    "keydown": "0.0.3",
+    "keypress": "^0.2.1",
+    "keyup": "^1.0.3",
+    "sendkey": "0.0.3",
+    "sendkeys": "^1.1.1"
+  }
+}
